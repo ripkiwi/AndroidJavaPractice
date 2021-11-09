@@ -46,8 +46,12 @@ public class MainActivity extends AppCompatActivity {
         }
         if (id == R.id.menu_website) {
 
-            //This specific intent opens a website instead of a different activity.
+            //Deze specifieke intent opent een website.
             Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.instagram.com/kiwi.nl/"));
+            startActivity(intent);
+        }
+        if (id == R.id.menu_settings){
+            Intent intent = new Intent(this, SettingsActivity.class);
             startActivity(intent);
         }
 

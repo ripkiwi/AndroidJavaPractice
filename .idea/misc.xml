@@ -4,10 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/kevin/Documents/UCLL/JAVA Mobile/Oefeningen/4_Storage/Examen_Practice/app/src/main/res/layout/activity_chrono.xml" value="0.259375" />
+        <entry key="..\:/Users/kevin/Documents/UCLL/JAVA Mobile/Oefeningen/4_Storage/Examen_Practice/app/src/main/res/layout/activity_fragment.xml" value="0.1734375" />
         <entry key="..\:/Users/kevin/Documents/UCLL/JAVA Mobile/Oefeningen/4_Storage/Examen_Practice/app/src/main/res/layout/activity_main.xml" value="0.259375" />
         <entry key="..\:/Users/kevin/Documents/UCLL/JAVA Mobile/Oefeningen/4_Storage/Examen_Practice/app/src/main/res/layout/activity_storage.xml" value="0.4" />
         <entry key="..\:/Users/kevin/Documents/UCLL/JAVA Mobile/Oefeningen/4_Storage/Examen_Practice/app/src/main/res/layout/car_one_fragment.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/kevin/Documents/UCLL/JAVA Mobile/Oefeningen/4_Storage/Examen_Practice/app/src/main/res/layout/car_two_fragment.xml" value="0.1734375" />
+        <entry key="..\:/Users/kevin/Documents/UCLL/JAVA Mobile/Oefeningen/4_Storage/Examen_Practice/app/src/main/res/layout/fragment_car_one.xml" value="0.1734375" />
+        <entry key="..\:/Users/kevin/Documents/UCLL/JAVA Mobile/Oefeningen/4_Storage/Examen_Practice/app/src/main/res/layout/fragment_car_two.xml" value="0.1734375" />
+        <entry key="..\:/Users/kevin/Documents/UCLL/JAVA Mobile/Oefeningen/4_Storage/Examen_Practice/app/src/main/res/layout/settings_activity.xml" value="0.1734375" />
         <entry key="..\:/Users/kevin/Documents/UCLL/JAVA Mobile/Oefeningen/4_Storage/Examen_Practice/app/src/main/res/menu/nav_menu.xml" value="0.259375" />
+        <entry key="..\:/Users/kevin/Documents/UCLL/JAVA Mobile/Oefeningen/4_Storage/Examen_Practice/app/src/main/res/xml/root_preferences.xml" value="0.4" />
       </map>
     </option>
   </component>

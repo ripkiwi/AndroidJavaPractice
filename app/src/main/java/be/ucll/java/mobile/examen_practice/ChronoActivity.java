@@ -51,6 +51,7 @@ public class ChronoActivity extends AppCompatActivity {
         // anders de ui zou vastlopen indien we meerdere acties zouden willen uitvoeren,
         // in dit geval de stopwatch display die we constant willen laten updaten.
         chronoOnThread();
+
     }
 
     //Deze methode runt wanneer we op de stop knop drukken.
@@ -63,6 +64,7 @@ public class ChronoActivity extends AppCompatActivity {
 
         //De chrono stopt, wanneer we deze variabele op false zetten zal de thread ook stoppen chronoOnThread()
         chronoRunning = false;
+
     }
 
     private void chronoOnThread() {
@@ -94,6 +96,7 @@ public class ChronoActivity extends AppCompatActivity {
 
                                 //Dit zal constant worden uitgevoerd op de ui thread om de display constant te updaten.
                                 txtChrono.setText(chronoText);
+
                             }
                         });
                         Thread.sleep(60);
@@ -102,6 +105,7 @@ public class ChronoActivity extends AppCompatActivity {
                         //Try & Catch moet rond een Thread.sleep() methode zitten
                         // zodat we de InterruptedException kunnen handlen.
                         e.printStackTrace();
+
                     }
                 }
             }

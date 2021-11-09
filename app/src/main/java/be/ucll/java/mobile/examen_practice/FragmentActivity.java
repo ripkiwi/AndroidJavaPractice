@@ -1,9 +1,8 @@
 package be.ucll.java.mobile.examen_practice;
 
-import androidx.appcompat.app.AppCompatActivity;
-
-import android.content.Intent;
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class FragmentActivity extends AppCompatActivity {
 
